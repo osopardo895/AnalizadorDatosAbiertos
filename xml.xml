@@ -1,0 +1,3471 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resultado>
+<registro>
+	<trimestre>2013T4</trimestre>
+	<sentido_transaccion>Dentro de España</sentido_transaccion>
+	<zona_geografica>Dentro de España</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>1445470284.22</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2013T4</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>América Latina</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>37855269.99</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2013T4</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Asia Pacífico</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>23195308.45</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2013T4</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>C.E.M.E.A.</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>37051823.4</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2013T4</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Estados Unidos</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>23523691.34</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2013T4</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Resto</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>7936232.76</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2013T4</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Unión Europea</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>364563229.43</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2013T4</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>América Latina</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>5669593.94</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2013T4</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Asia Pacífico</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>26225304.11</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2013T4</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>C.E.M.E.A.</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>52825325.74</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2013T4</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Estados Unidos</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>63867361.71</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2013T4</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Resto</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>6642835.52</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2013T4</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Unión Europea</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>1337294373.04</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2014T1</trimestre>
+	<sentido_transaccion>Dentro de España</sentido_transaccion>
+	<zona_geografica>Dentro de España</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>1446901779.12</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2014T1</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>América Latina</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>37411749.05</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2014T1</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Asia Pacífico</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>27743329.48</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2014T1</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>C.E.M.E.A.</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>49543798.37</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2014T1</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Estados Unidos</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>29192898.23</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2014T1</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Resto</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>10084280.58</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2014T1</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Unión Europea</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>449447460.12</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2014T1</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>América Latina</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>5493391.96</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2014T1</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Asia Pacífico</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>22875441.96</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2014T1</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>C.E.M.E.A.</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>60777664.78</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2014T1</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Estados Unidos</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>64755166.12</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2014T1</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Resto</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>7513940.65</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2014T1</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Unión Europea</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>1366990529.02</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2014T2</trimestre>
+	<sentido_transaccion>Dentro de España</sentido_transaccion>
+	<zona_geografica>Dentro de España</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>1648052110.56</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2014T2</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>América Latina</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>44661133.08</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2014T2</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Asia Pacífico</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>29516374.78</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2014T2</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>C.E.M.E.A.</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>55635344.67</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2014T2</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Estados Unidos</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>34313497.64</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2014T2</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Resto</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>11474617.32</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2014T2</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Unión Europea</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>482750430.89</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2014T2</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>América Latina</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>5784610.74</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2014T2</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Asia Pacífico</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>20046951.46</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2014T2</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>C.E.M.E.A.</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>69036146.4</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2014T2</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Estados Unidos</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>64704079.78</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2014T2</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Resto</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>8465485.27</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2014T2</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Unión Europea</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>1419018545.25</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2014T3</trimestre>
+	<sentido_transaccion>Dentro de España</sentido_transaccion>
+	<zona_geografica>Dentro de España</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>1747089645.07</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2014T3</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>América Latina</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>46582542.38</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2014T3</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Asia Pacífico</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>32183514.64</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2014T3</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>C.E.M.E.A.</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>56507105.22</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2014T3</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Estados Unidos</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>40410798.24</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2014T3</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Resto</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>11064421.53</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2014T3</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Unión Europea</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>529761584.15</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2014T3</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>América Latina</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>6427392.07</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2014T3</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Asia Pacífico</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>22639258.21</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2014T3</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>C.E.M.E.A.</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>66742890.66</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2014T3</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Estados Unidos</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>70360940.88</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2014T3</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Resto</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>8060255.23</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2014T3</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Unión Europea</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>1464960069.42</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2014T4</trimestre>
+	<sentido_transaccion>Dentro de España</sentido_transaccion>
+	<zona_geografica>Dentro de España</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>1773404404.68</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2014T4</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>América Latina</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>47933328.48</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2014T4</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Asia Pacífico</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>34390597.15</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2014T4</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>C.E.M.E.A.</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>37218279.65</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2014T4</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Estados Unidos</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>43654221.47</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2014T4</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Resto</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>9740544.19</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2014T4</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Unión Europea</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>485330572.97</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2014T4</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>América Latina</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>6417182.44</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2014T4</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Asia Pacífico</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>22701811.73</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2014T4</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>C.E.M.E.A.</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>68301598.53</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2014T4</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Estados Unidos</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>72883418.83</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2014T4</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Resto</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>7653098.31</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2014T4</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Unión Europea</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>1706658238.52</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2015T1</trimestre>
+	<sentido_transaccion>Dentro de España</sentido_transaccion>
+	<zona_geografica>Dentro de España</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>1736934050.81</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2015T1</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>América Latina</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>63515186.95</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2015T1</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Asia Pacífico</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>39775674.57</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2015T1</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>C.E.M.E.A.</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>50117474.22</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2015T1</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Estados Unidos</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>61302063.83</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2015T1</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Resto</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>12327640.8</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2015T1</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Unión Europea</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>582849088.29</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2015T1</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>América Latina</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>6959898.49</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2015T1</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Asia Pacífico</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>20655903.59</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2015T1</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>C.E.M.E.A.</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>76775575.7</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2015T1</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Estados Unidos</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>79033100.87</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2015T1</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Resto</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>8923127.82</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2015T1</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Unión Europea</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>1716506983.91</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2015T2</trimestre>
+	<sentido_transaccion>Dentro de España</sentido_transaccion>
+	<zona_geografica>Dentro de España</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>1989895896.18</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2015T2</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>América Latina</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>72833644.3</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2015T2</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Asia Pacífico</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>49828619.35</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2015T2</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>C.E.M.E.A.</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>60655583.97</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2015T2</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Estados Unidos</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>75817635.59</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2015T2</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Resto</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>15521489.71</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2015T2</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Unión Europea</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>686205811.92</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2015T2</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>América Latina</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>6503494.3</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2015T2</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Asia Pacífico</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>22378329.93</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2015T2</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>C.E.M.E.A.</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>67211308.46</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2015T2</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Estados Unidos</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>81823026.82</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2015T2</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Resto</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>8683707.19</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2015T2</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Unión Europea</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>1808499029.33</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2015T3</trimestre>
+	<sentido_transaccion>Dentro de España</sentido_transaccion>
+	<zona_geografica>Dentro de España</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>2182210947.5</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2015T3</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>América Latina</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>72297014.86</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2015T3</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Asia Pacífico</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>43789422.6</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2015T3</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>C.E.M.E.A.</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>60730131.34</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2015T3</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Estados Unidos</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>69087883.96</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2015T3</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Resto</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>16000710.2</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2015T3</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Unión Europea</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>754844906.25</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2015T3</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>América Latina</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>6803155.77</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2015T3</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Asia Pacífico</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>24243123.73</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2015T3</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>C.E.M.E.A.</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>44208896.18</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2015T3</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Estados Unidos</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>83418358.64</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2015T3</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Resto</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>6713387.2</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2015T3</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Unión Europea</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>1938236588.54</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2015T4</trimestre>
+	<sentido_transaccion>Dentro de España</sentido_transaccion>
+	<zona_geografica>Dentro de España</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>2196768574.99</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2015T4</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>América Latina</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>69312191.44</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2015T4</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Asia Pacífico</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>31857580.53</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2015T4</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>C.E.M.E.A.</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>42711650.46</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2015T4</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Estados Unidos</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>51475985.46</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2015T4</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Resto</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>11649196.23</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2015T4</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Unión Europea</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>565700071.05</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2015T4</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>América Latina</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>10601275.47</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2015T4</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Asia Pacífico</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>21825225.13</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2015T4</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>C.E.M.E.A.</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>40408744.12</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2015T4</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Estados Unidos</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>81987615.79</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2015T4</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Resto</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>7712361.61</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2015T4</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Unión Europea</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>2177137583.99</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2016T1</trimestre>
+	<sentido_transaccion>Dentro de España</sentido_transaccion>
+	<zona_geografica>Dentro de España</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>2176314899.74</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2016T1</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>América Latina</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>56072150.96</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2016T1</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Asia Pacífico</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>32475956.24</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2016T1</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>C.E.M.E.A.</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>59358101.77</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2016T1</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Estados Unidos</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>56369450.07</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2016T1</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Resto</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>11559495.72</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2016T1</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Unión Europea</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>634286507.11</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2016T1</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>América Latina</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>14411934.37</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2016T1</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Asia Pacífico</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>21641377.23</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2016T1</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>C.E.M.E.A.</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>47625806.87</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2016T1</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Estados Unidos</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>82803314.27</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2016T1</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Resto</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>10414592.75</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2016T1</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Unión Europea</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>2210732803.25</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2016T2</trimestre>
+	<sentido_transaccion>Dentro de España</sentido_transaccion>
+	<zona_geografica>Dentro de España</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>2459572278.5</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2016T2</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>América Latina</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>57833427.26</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2016T2</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Asia Pacífico</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>34358692.7</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2016T2</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>C.E.M.E.A.</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>65481823.97</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2016T2</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Estados Unidos</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>48931368.91</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2016T2</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Resto</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>13358993.79</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2016T2</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Unión Europea</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>719359910.63</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2016T2</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>América Latina</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>12783347.93</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2016T2</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Asia Pacífico</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>27341352.65</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2016T2</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>C.E.M.E.A.</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>41570521.01</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2016T2</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Estados Unidos</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>83866713.61</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2016T2</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Resto</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>7520199.71</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2016T2</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Unión Europea</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>2375978610.57</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2016T3</trimestre>
+	<sentido_transaccion>Dentro de España</sentido_transaccion>
+	<zona_geografica>Dentro de España</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>2550180826.71</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2016T3</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>América Latina</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>58326318.11</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2016T3</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Asia Pacífico</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>38982638.27</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2016T3</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>C.E.M.E.A.</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>74787086.32</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2016T3</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Estados Unidos</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>56355122.5</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2016T3</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Resto</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>13873075.56</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2016T3</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Unión Europea</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>740653575.01</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2016T3</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>América Latina</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>13887862.49</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2016T3</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Asia Pacífico</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>35453507.88</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2016T3</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>C.E.M.E.A.</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>42502235.19</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2016T3</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Estados Unidos</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>90591080.19</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2016T3</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Resto</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>7340051.95</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2016T3</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Unión Europea</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>2443862977.58</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2016T4</trimestre>
+	<sentido_transaccion>Dentro de España</sentido_transaccion>
+	<zona_geografica>Dentro de España</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>2688351693.75</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2016T4</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>América Latina</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>63194799.32</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2016T4</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Asia Pacífico</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>40539215.53</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2016T4</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>C.E.M.E.A.</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>64282565.3</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2016T4</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Estados Unidos</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>57421355.41</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2016T4</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Resto</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>13231165.6</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2016T4</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Unión Europea</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>624514761.32</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2016T4</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>América Latina</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>12714318.32</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2016T4</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Asia Pacífico</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>38410455.96</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2016T4</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>C.E.M.E.A.</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>50239362.87</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2016T4</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Estados Unidos</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>94605309.15</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2016T4</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Resto</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>9774289.04</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2016T4</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Unión Europea</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>2898632212.66</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2017T1</trimestre>
+	<sentido_transaccion>Dentro de España</sentido_transaccion>
+	<zona_geografica>Dentro de España</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>2633810070.67</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2017T1</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>América Latina</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>81060661.15</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2017T1</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Asia Pacífico</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>55181765.96</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2017T1</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>C.E.M.E.A.</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>91698437.71</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2017T1</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Estados Unidos</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>77870138.45</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2017T1</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Resto</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>17248802.04</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2017T1</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Unión Europea</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>785306194.08</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2017T1</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>América Latina</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>8940890.35</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2017T1</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Asia Pacífico</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>37555546.73</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2017T1</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>C.E.M.E.A.</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>62819686.23</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2017T1</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Estados Unidos</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>90297722.32</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2017T1</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Resto</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>11540914.16</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2017T1</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Unión Europea</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>2803595104.26</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2017T2</trimestre>
+	<sentido_transaccion>Dentro de España</sentido_transaccion>
+	<zona_geografica>Dentro de España</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>2817100756.63</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2017T2</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>América Latina</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>101498926.71</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2017T2</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Asia Pacífico</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>63740613.09</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2017T2</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>C.E.M.E.A.</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>107899976.72</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2017T2</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Estados Unidos</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>90762999.68</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2017T2</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Resto</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>18613924.44</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2017T2</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Unión Europea</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>893751312.3</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2017T2</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>América Latina</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>8942545.94</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2017T2</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Asia Pacífico</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>38447134.22</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2017T2</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>C.E.M.E.A.</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>77258172.26</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2017T2</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Estados Unidos</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>91829120.93</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2017T2</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Resto</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>30385498.5</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2017T2</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Unión Europea</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>2997876036</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2017T3</trimestre>
+	<sentido_transaccion>Dentro de España</sentido_transaccion>
+	<zona_geografica>Dentro de España</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>2970880673.29</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2017T3</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>América Latina</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>111316943.2</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2017T3</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Asia Pacífico</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>79762927.54</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2017T3</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>C.E.M.E.A.</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>127265112.18</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2017T3</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Estados Unidos</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>75886238.93</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2017T3</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Resto</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>19564668.44</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2017T3</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Unión Europea</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>902071501.01</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2017T3</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>América Latina</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>8657751.37</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2017T3</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Asia Pacífico</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>47157347.3</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2017T3</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>C.E.M.E.A.</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>83255569.91</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2017T3</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Estados Unidos</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>98022905.81</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2017T3</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Resto</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>28085975.08</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2017T3</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Unión Europea</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>3233252397.4</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2017T4</trimestre>
+	<sentido_transaccion>Dentro de España</sentido_transaccion>
+	<zona_geografica>Dentro de España</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>3104990960.4</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2017T4</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>América Latina</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>105403451.36</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2017T4</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Asia Pacífico</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>74554348.65</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2017T4</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>C.E.M.E.A.</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>97584345.03</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2017T4</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Estados Unidos</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>57109967.83</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2017T4</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Resto</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>15868108.06</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2017T4</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Unión Europea</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>823545261.04</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2017T4</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>América Latina</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>8917573.1</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2017T4</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Asia Pacífico</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>59029057.37</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2017T4</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>C.E.M.E.A.</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>94299898.96</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2017T4</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Estados Unidos</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>97031418.9</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2017T4</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Resto</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>34162667.33</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2017T4</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Unión Europea</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>3953389083.65</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2018T1</trimestre>
+	<sentido_transaccion>Dentro de España</sentido_transaccion>
+	<zona_geografica>Dentro de España</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>3135507565.79</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2018T1</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>América Latina</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>128516521.63</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2018T1</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Asia Pacífico</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>80553013.33</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2018T1</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>C.E.M.E.A.</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>123898189.87</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2018T1</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Estados Unidos</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>76412436.78</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2018T1</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Resto</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>19331424.78</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2018T1</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Unión Europea</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>1164856360.73</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2018T1</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>América Latina</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>9824387.33</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2018T1</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Asia Pacífico</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>52702378.69</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2018T1</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>C.E.M.E.A.</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>104503636.35</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2018T1</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Estados Unidos</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>95094757.08</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2018T1</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Resto</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>35608939.86</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2018T1</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Unión Europea</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>3946690998.8</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2018T2</trimestre>
+	<sentido_transaccion>Dentro de España</sentido_transaccion>
+	<zona_geografica>Dentro de España</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>3100809035.58</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2018T2</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>América Latina</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>143128992.51</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2018T2</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Asia Pacífico</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>94262306.78</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2018T2</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>C.E.M.E.A.</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>141434939.37</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2018T2</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Estados Unidos</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>107911919.14</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2018T2</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Resto</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>24683465.88</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2018T2</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Unión Europea</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>1278947836.24</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2018T2</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>América Latina</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>9496777.61</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2018T2</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Asia Pacífico</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>59647919.97</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2018T2</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>C.E.M.E.A.</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>111084013.59</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2018T2</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Estados Unidos</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>98780789.01</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2018T2</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Resto</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>23183379.86</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2018T2</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Unión Europea</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>4139971345.02</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2018T3</trimestre>
+	<sentido_transaccion>Dentro de España</sentido_transaccion>
+	<zona_geografica>Dentro de España</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>3404683340</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2018T3</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>América Latina</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>136012766.85</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2018T3</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Asia Pacífico</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>111140334.65</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2018T3</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>C.E.M.E.A.</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>164227424.18</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2018T3</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Estados Unidos</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>107274318.3</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2018T3</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Resto</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>26444894.01</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2018T3</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Unión Europea</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>1378918852.04</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2018T3</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>América Latina</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>11198455.11</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2018T3</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Asia Pacífico</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>66611520.87</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2018T3</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>C.E.M.E.A.</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>59334597.12</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2018T3</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Estados Unidos</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>111583123.66</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2018T3</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Resto</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>14305712.78</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2018T3</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Unión Europea</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>4524396310.41</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2018T4</trimestre>
+	<sentido_transaccion>Dentro de España</sentido_transaccion>
+	<zona_geografica>Dentro de España</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>3563695282.98</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2018T4</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>América Latina</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>126787703.44</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2018T4</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Asia Pacífico</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>106707839.43</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2018T4</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>C.E.M.E.A.</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>179768949.81</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2018T4</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Estados Unidos</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>91379350.11</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2018T4</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Resto</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>24931920.85</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2018T4</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Unión Europea</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>1235585993.41</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2018T4</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>América Latina</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>12006534.34</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2018T4</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Asia Pacífico</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>67953992.58</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2018T4</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>C.E.M.E.A.</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>53526739.55</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2018T4</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Estados Unidos</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>108964654.17</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2018T4</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Resto</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>15644485.43</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2018T4</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Unión Europea</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>5233032435.59</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2019T1</trimestre>
+	<sentido_transaccion>Dentro de España</sentido_transaccion>
+	<zona_geografica>Dentro de España</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>3539895258.42</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2019T1</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>América Latina</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>138324097.43</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2019T1</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Asia Pacífico</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>140911770.7</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2019T1</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>C.E.M.E.A.</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>258241525.13</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2019T1</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Estados Unidos</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>116533136.38</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2019T1</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Resto</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>32315772.16</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2019T1</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Unión Europea</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>1489932403.55</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2019T1</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>América Latina</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>12126215.05</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2019T1</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Asia Pacífico</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>52956564.26</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2019T1</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>C.E.M.E.A.</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>63606203.44</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2019T1</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Estados Unidos</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>108241563.18</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2019T1</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Resto</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>17918668.17</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2019T1</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Unión Europea</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>4998196188.58</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2019T2</trimestre>
+	<sentido_transaccion>Dentro de España</sentido_transaccion>
+	<zona_geografica>Dentro de España</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>3790781436.41</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2019T2</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>América Latina</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>160076426.85</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2019T2</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Asia Pacífico</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>227627944.44</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2019T2</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>C.E.M.E.A.</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>342953670.08</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2019T2</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Estados Unidos</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>136652456.04</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2019T2</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Resto</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>53343213.94</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2019T2</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Unión Europea</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>1700272046.51</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2019T2</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>América Latina</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>11236799.2</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2019T2</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Asia Pacífico</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>55406653.5</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2019T2</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>C.E.M.E.A.</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>68215170.26</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2019T2</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Estados Unidos</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>117567986.59</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2019T2</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Resto</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>17224828.3</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2019T2</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Unión Europea</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>5317338158.18</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2019T3</trimestre>
+	<sentido_transaccion>Dentro de España</sentido_transaccion>
+	<zona_geografica>Dentro de España</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>3783168351.86</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2019T3</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>América Latina</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>163387374.66</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2019T3</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Asia Pacífico</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>238176981.23</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2019T3</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>C.E.M.E.A.</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>354062893.61</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2019T3</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Estados Unidos</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>129126971.39</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2019T3</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Resto</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>40596856.24</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2019T3</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Unión Europea</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>1751228945.17</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2019T3</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>América Latina</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>12875912.31</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2019T3</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Asia Pacífico</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>62173483.57</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2019T3</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>C.E.M.E.A.</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>74349425.37</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2019T3</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Estados Unidos</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>129045063</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2019T3</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Resto</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>20803323.81</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2019T3</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Unión Europea</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>5734073841.76</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2019T4</trimestre>
+	<sentido_transaccion>Dentro de España</sentido_transaccion>
+	<zona_geografica>Dentro de España</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>4109778476.46</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2019T4</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>América Latina</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>155062151.55</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2019T4</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Asia Pacífico</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>253287725.39</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2019T4</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>C.E.M.E.A.</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>306791680.67</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2019T4</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Estados Unidos</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>106159490.57</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2019T4</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Resto</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>48045866.9</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2019T4</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Unión Europea</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>1537778946.37</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2019T4</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>América Latina</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>12887694.86</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2019T4</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Asia Pacífico</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>66003301.53</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2019T4</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>C.E.M.E.A.</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>67975023.77</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2019T4</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Estados Unidos</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>126167916.48</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2019T4</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Resto</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>20211111.81</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2019T4</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Unión Europea</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>6555063265.9</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2020T1</trimestre>
+	<sentido_transaccion>Dentro de España</sentido_transaccion>
+	<zona_geografica>Dentro de España</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>3772831074.15</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2020T1</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>América Latina</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>122648678</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2020T1</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Asia Pacífico</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>227573655.61</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2020T1</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>C.E.M.E.A.</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>252072749.58</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2020T1</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Estados Unidos</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>97846383.06</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2020T1</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Resto</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>48814118.39</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2020T1</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Unión Europea</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>1506595016.48</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2020T1</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>América Latina</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>11659150.24</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2020T1</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Asia Pacífico</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>51858575.33</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2020T1</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>C.E.M.E.A.</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>76593967.04</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2020T1</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Estados Unidos</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>118856254.52</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2020T1</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Resto</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>19896121.51</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2020T1</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Unión Europea</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>5936147290.3</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2020T2</trimestre>
+	<sentido_transaccion>Dentro de España</sentido_transaccion>
+	<zona_geografica>Dentro de España</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>3819138856.54</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2020T2</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>América Latina</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>47317957.81</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2020T2</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Asia Pacífico</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>129689271.35</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2020T2</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>C.E.M.E.A.</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>120195468.27</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2020T2</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Estados Unidos</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>49875792.92</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2020T2</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Reino Unido</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>81854178.43</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2020T2</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Resto</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>38082189.49</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2020T2</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Unión Europea</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>590678445.57</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2020T2</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>América Latina</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>6534966.92</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2020T2</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Asia Pacífico</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>54340673.42</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2020T2</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>C.E.M.E.A.</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>50194522.73</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2020T2</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Estados Unidos</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>102091695.25</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2020T2</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Reino Unido</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>2615830448.64</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2020T2</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Resto</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>12462189.45</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2020T2</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Unión Europea</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>4301554445.86</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2020T3</trimestre>
+	<sentido_transaccion>Dentro de España</sentido_transaccion>
+	<zona_geografica>Dentro de España</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>4244150160.79</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2020T3</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>América Latina</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>68367235.96</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2020T3</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Asia Pacífico</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>139250504.57</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2020T3</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>C.E.M.E.A.</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>187275298.66</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2020T3</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Estados Unidos</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>68042025.28</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2020T3</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Reino Unido</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>150089606.89</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2020T3</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Resto</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>51941949.77</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2020T3</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Unión Europea</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>905377015.19</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2020T3</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>América Latina</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>6247887.6</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2020T3</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Asia Pacífico</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>48364267.79</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2020T3</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>C.E.M.E.A.</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>58679983.76</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2020T3</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Estados Unidos</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>91562407.69</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2020T3</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Reino Unido</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>2369740664.46</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2020T3</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Resto</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>13824376.34</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2020T3</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Unión Europea</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>4397589299.06</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2020T4</trimestre>
+	<sentido_transaccion>Dentro de España</sentido_transaccion>
+	<zona_geografica>Dentro de España</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>4485710484.96</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2020T4</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>América Latina</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>77589489.92</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2020T4</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Asia Pacífico</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>88926051.3</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2020T4</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>C.E.M.E.A.</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>115220074</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2020T4</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Estados Unidos</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>69517753.21</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2020T4</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Reino Unido</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>117492454.64</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2020T4</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Resto</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>27966573.38</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2020T4</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Unión Europea</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>721578294.78</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2020T4</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>América Latina</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>8374992.21</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2020T4</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Asia Pacífico</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>78016416.32</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2020T4</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>C.E.M.E.A.</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>64600709.92</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2020T4</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Estados Unidos</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>102444495.76</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2020T4</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Reino Unido</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>2863739948.85</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2020T4</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Resto</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>16980944.59</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2020T4</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Unión Europea</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>5774868407.2</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2021T1</trimestre>
+	<sentido_transaccion>Dentro de España</sentido_transaccion>
+	<zona_geografica>Dentro de España</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>3687348559.09</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2021T1</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>América Latina</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>74655617.73</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2021T1</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Asia Pacífico</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>47940929.63</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2021T1</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>C.E.M.E.A.</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>85290888.78</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2021T1</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Estados Unidos</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>72148153.97</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2021T1</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Reino Unido</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>82007162.91</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2021T1</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Resto</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>11523189.58</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2021T1</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Unión Europea</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>573378271.08</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2021T1</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>América Latina</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>11391574.53</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2021T1</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Asia Pacífico</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>72568492.88</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2021T1</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>C.E.M.E.A.</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>293520286.03</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2021T1</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Estados Unidos</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>101704234.37</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2021T1</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Reino Unido</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>584311931.11</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2021T1</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Resto</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>14078132.17</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2021T1</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Unión Europea</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>6761681200.04</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2021T2</trimestre>
+	<sentido_transaccion>Dentro de España</sentido_transaccion>
+	<zona_geografica>Dentro de España</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>4371675826.61</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2021T2</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>América Latina</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>85312407.38</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2021T2</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Asia Pacífico</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>49455891.2</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2021T2</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>C.E.M.E.A.</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>106934856.97</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2021T2</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Estados Unidos</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>104669209.86</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2021T2</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Reino Unido</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>103388116.39</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2021T2</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Resto</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>12970917.62</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2021T2</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Unión Europea</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>816864499.89</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2021T2</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>América Latina</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>13525664.14</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2021T2</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Asia Pacífico</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>72647113.81</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2021T2</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>C.E.M.E.A.</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>260664485.03</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2021T2</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Estados Unidos</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>100475236.39</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2021T2</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Reino Unido</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>575124923.67</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2021T2</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Resto</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>15207960.61</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2021T2</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Unión Europea</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>6972321003.84</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2021T3</trimestre>
+	<sentido_transaccion>Dentro de España</sentido_transaccion>
+	<zona_geografica>Dentro de España</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>4906415382.96</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2021T3</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>América Latina</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>122406396.08</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2021T3</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Asia Pacífico</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>48087272.06</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2021T3</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>C.E.M.E.A.</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>135519738.05</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2021T3</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Estados Unidos</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>118889653.54</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2021T3</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Reino Unido</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>183637885.05</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2021T3</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Resto</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>19057425.79</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2021T3</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Unión Europea</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>1022210040.38</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2021T3</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>América Latina</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>18847084.77</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2021T3</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Asia Pacífico</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>57831444.55</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2021T3</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>C.E.M.E.A.</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>236053982.97</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2021T3</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Estados Unidos</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>102858830.51</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2021T3</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Reino Unido</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>477941409.04</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2021T3</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Resto</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>19957331.76</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2021T3</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Unión Europea</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>7226240079.88</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2021T4</trimestre>
+	<sentido_transaccion>Dentro de España</sentido_transaccion>
+	<zona_geografica>Dentro de España</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>5204131501.54</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2021T4</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>América Latina</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>139971072.5</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2021T4</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Asia Pacífico</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>63519563.33</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2021T4</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>C.E.M.E.A.</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>134844988.15</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2021T4</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Estados Unidos</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>114945088.29</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2021T4</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Reino Unido</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>153415836.97</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2021T4</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Resto</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>21609750.24</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2021T4</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Unión Europea</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>927268570.02</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2021T4</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>América Latina</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>23812299.7</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2021T4</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Asia Pacífico</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>62424344.35</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2021T4</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>C.E.M.E.A.</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>290902176.24</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2021T4</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Estados Unidos</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>127216715.95</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2021T4</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Reino Unido</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>488298921.7</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2021T4</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Resto</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>27150229.79</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2021T4</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Unión Europea</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>9136671871.47</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2022T1</trimestre>
+	<sentido_transaccion>Dentro de España</sentido_transaccion>
+	<zona_geografica>Dentro de España</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>4829782433.81</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2022T1</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>América Latina</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>146703541.08</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2022T1</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Asia Pacífico</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>78336525.73</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2022T1</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>C.E.M.E.A.</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>153823379.16</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2022T1</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Estados Unidos</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>114943883.5</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2022T1</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Reino Unido</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>150913024.69</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2022T1</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Resto</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>23025052.04</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2022T1</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Unión Europea</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>1102105728.39</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2022T1</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>América Latina</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>27931298.48</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2022T1</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Asia Pacífico</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>51092756.25</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2022T1</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>C.E.M.E.A.</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>222902701.76</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2022T1</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Estados Unidos</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>131535923.25</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2022T1</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Reino Unido</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>357875616.59</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2022T1</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Resto</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>32854865.7</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2022T1</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Unión Europea</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>8203341410.16</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2022T2</trimestre>
+	<sentido_transaccion>Dentro de España</sentido_transaccion>
+	<zona_geografica>Dentro de España</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>5868675919.11</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2022T2</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>América Latina</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>196642904.59</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2022T2</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Asia Pacífico</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>130489648.24</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2022T2</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>C.E.M.E.A.</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>222826055.11</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2022T2</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Estados Unidos</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>202729245.16</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2022T2</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Reino Unido</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>221973484.48</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2022T2</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Resto</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>44913867.71</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2022T2</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Unión Europea</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>1618188449.01</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2022T2</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>América Latina</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>28696461.1</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2022T2</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Asia Pacífico</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>52776231.13</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2022T2</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>C.E.M.E.A.</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>113397107.85</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2022T2</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Estados Unidos</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>149071797.21</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2022T2</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Reino Unido</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>377687995.91</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2022T2</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Resto</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>28308357.52</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2022T2</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Unión Europea</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>8933360670.19</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2022T3</trimestre>
+	<sentido_transaccion>Dentro de España</sentido_transaccion>
+	<zona_geografica>Dentro de España</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>6212777520.02</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2022T3</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>América Latina</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>205716560.01</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2022T3</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Asia Pacífico</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>133678000.08</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2022T3</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>C.E.M.E.A.</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>240391580.45</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2022T3</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Estados Unidos</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>193339422.47</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2022T3</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Reino Unido</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>233879780.6</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2022T3</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Resto</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>47652776.08</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2022T3</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Unión Europea</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>1601918236.24</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2022T3</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>América Latina</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>25510456.68</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2022T3</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Asia Pacífico</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>64814336.1</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2022T3</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>C.E.M.E.A.</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>110758576.97</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2022T3</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Estados Unidos</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>160877486.8</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2022T3</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Reino Unido</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>354664115.14</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2022T3</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Resto</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>29718339.56</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2022T3</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Unión Europea</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>9317079304.62</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2022T4</trimestre>
+	<sentido_transaccion>Dentro de España</sentido_transaccion>
+	<zona_geografica>Dentro de España</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>6190137783.69</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2022T4</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>América Latina</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>187732921.57</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2022T4</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Asia Pacífico</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>117882847.39</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2022T4</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>C.E.M.E.A.</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>179249651.45</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2022T4</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Estados Unidos</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>154972834.76</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2022T4</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Reino Unido</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>143615281.68</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2022T4</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Resto</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>32800430.92</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2022T4</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Unión Europea</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>1219499371.66</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2022T4</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>América Latina</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>27399663.78</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2022T4</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Asia Pacífico</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>76664396.57</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2022T4</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>C.E.M.E.A.</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>101124257.53</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2022T4</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Estados Unidos</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>168740007.41</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2022T4</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Reino Unido</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>306691757.13</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2022T4</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Resto</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>35872848.47</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2022T4</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Unión Europea</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>10707506828.27</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2023T1</trimestre>
+	<sentido_transaccion>Dentro de España</sentido_transaccion>
+	<zona_geografica>Dentro de España</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>5870402589.23</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2023T1</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>América Latina</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>197215781.6</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2023T1</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Asia Pacífico</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>122464638.3</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2023T1</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>C.E.M.E.A.</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>199691684.74</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2023T1</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Estados Unidos</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>190413071.07</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2023T1</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Reino Unido</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>190802192.06</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2023T1</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Resto</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>33753146.83</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2023T1</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Unión Europea</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>1567677036.38</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2023T1</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>América Latina</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>29884788.12</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2023T1</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Asia Pacífico</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>70180286.66</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2023T1</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>C.E.M.E.A.</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>107612439.57</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2023T1</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Estados Unidos</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>156480704.31</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2023T1</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Reino Unido</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>259896460.03</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2023T1</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Resto</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>82681203.79</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2023T1</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Unión Europea</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>10096151452.11</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2023T2</trimestre>
+	<sentido_transaccion>Dentro de España</sentido_transaccion>
+	<zona_geografica>Dentro de España</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>6271555301.79</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2023T2</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>América Latina</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>235636087.09</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2023T2</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Asia Pacífico</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>131098220.25</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2023T2</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>C.E.M.E.A.</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>249280361.25</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2023T2</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Estados Unidos</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>249062844.76</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2023T2</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Reino Unido</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>237469825.41</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2023T2</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Resto</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>42769753.48</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2023T2</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Unión Europea</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>1701709994.27</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2023T2</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>América Latina</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>34061807.88</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2023T2</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Asia Pacífico</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>77840668.36</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2023T2</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>C.E.M.E.A.</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>112943122.35</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2023T2</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Estados Unidos</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>163275553.46</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2023T2</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Reino Unido</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>264454347.18</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2023T2</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Resto</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>31072316.67</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2023T2</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Unión Europea</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>10689276370.95</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2023T3</trimestre>
+	<sentido_transaccion>Dentro de España</sentido_transaccion>
+	<zona_geografica>Dentro de España</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>6618113577.34</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2023T3</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>América Latina</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>243462142.34</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2023T3</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Asia Pacífico</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>137453731.32</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2023T3</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>C.E.M.E.A.</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>286333738.84</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2023T3</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Estados Unidos</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>239511979.8</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2023T3</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Reino Unido</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>264379179.84</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2023T3</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Resto</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>48409566.23</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2023T3</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Unión Europea</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>1880506242.94</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2023T3</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>América Latina</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>32032661.08</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2023T3</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Asia Pacífico</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>89993251.16</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2023T3</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>C.E.M.E.A.</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>108805059</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2023T3</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Estados Unidos</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>174910633.36</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2023T3</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Reino Unido</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>279415604.64</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2023T3</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Resto</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>33673797.26</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2023T3</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Unión Europea</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>11365619462.53</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2023T4</trimestre>
+	<sentido_transaccion>Dentro de España</sentido_transaccion>
+	<zona_geografica>Dentro de España</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>6637888736.99</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2023T4</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>América Latina</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>216803444.07</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2023T4</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Asia Pacífico</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>102127231.59</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2023T4</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>C.E.M.E.A.</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>205222668.4</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2023T4</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Estados Unidos</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>185139793.58</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2023T4</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Reino Unido</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>176456232.33</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2023T4</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Resto</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>38464523.87</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2023T4</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Unión Europea</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>1551000607.71</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2023T4</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>América Latina</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>35757203.13</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2023T4</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Asia Pacífico</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>105977456.87</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2023T4</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>C.E.M.E.A.</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>116122611.09</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2023T4</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Estados Unidos</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>186212402.85</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2023T4</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Reino Unido</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>279457430.78</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2023T4</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Resto</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>37542277.45</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2023T4</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Unión Europea</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>12832376262.17</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2024T1</trimestre>
+	<sentido_transaccion>Dentro de España</sentido_transaccion>
+	<zona_geografica>Dentro de España</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>6353755618.84</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2024T1</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>América Latina</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>232496586.15</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2024T1</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Asia Pacífico</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>108729322.22</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2024T1</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>C.E.M.E.A.</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>226817117.44</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2024T1</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Estados Unidos</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>215405617.21</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2024T1</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Reino Unido</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>226540054.18</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2024T1</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Resto</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>45697584.11</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2024T1</trimestre>
+	<sentido_transaccion>Desde el exterior con España</sentido_transaccion>
+	<zona_geografica>Unión Europea</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>1676848730.81</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2024T1</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>América Latina</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>39666095.35</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2024T1</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Asia Pacífico</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>90438824.74</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2024T1</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>C.E.M.E.A.</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>126595019.43</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2024T1</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Estados Unidos</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>185031538.78</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2024T1</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Reino Unido</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>271706250.31</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2024T1</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Resto</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>42712838.88</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+<registro>
+	<trimestre>2024T1</trimestre>
+	<sentido_transaccion>Desde España con el exterior</sentido_transaccion>
+	<zona_geografica>Unión Europea</zona_geografica>
+	<evolucion_trimestral_del_volumen_de_negocio>11950671953.06</evolucion_trimestral_del_volumen_de_negocio>
+</registro>
+</resultado>
