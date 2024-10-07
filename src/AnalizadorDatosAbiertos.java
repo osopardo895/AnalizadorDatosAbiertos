@@ -2,6 +2,9 @@ import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 import com.google.gson.JsonArray;
 import org.w3c.dom.Document;
+import org.w3c.dom.Element;
+import org.w3c.dom.Node;
+import org.w3c.dom.NodeList;
 
 import javax.xml.parsers.DocumentBuilder;
 import javax.xml.parsers.DocumentBuilderFactory;
@@ -96,6 +99,28 @@ public class AnalizadorDatosAbiertos {
         }
     }
     public static void mostrarResumenXML(Document datos) {
-// Implementar lógica para mostrar resumen de datos XML
+        if (datos == null) {
+            System.out.println("No se encontraron datos.");
+            return;
+        }
+        // Obtener el elemento raíz
+        Element root = datos.getDocumentElement();
+        System.out.println("Resumen del archivo XML:");
+        System.out.println("Elemento raíz: " + root.getNodeName());
+
+        // Obtener todos los nodos hijos del elemento raíz
+        NodeList nodeList = root.getChildNodes();
+        System.out.println("Número total de filas: " + nodeList.getLength());
+
+        // Mostrar los primeros 5 registros
+        System.out.println("\nPrimeros 5 registros:");
+        for (int i = 0; i < Math.min(5, nodeList.getLength()); i++) {
+            Node node = nodeList.item(i);
+            if (node.getNodeType() == Node.ELEMENT_NODE) {
+                Element element = (Element) node;
+                // Imprimir el contenido de cada registro
+                System.out.println("Registro " + (i + 1) + ": " + element.getTextContent().trim());
+            }
+        }
     }
 }
